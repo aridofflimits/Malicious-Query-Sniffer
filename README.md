@@ -17,3 +17,7 @@ Each model is rigorously evaluated using cross-validation to score their perform
 By developing models with high detection capabilities, the goal is to automate the identification of malicious queries aimed at exploiting vulnerabilities. This could help security professionals more quickly analyze and respond to potential attack vectors.
 
 Overall, the project seeks to determine whether traditional machine learning or more modern deep learning is best suited for this query classification problem. Both approaches are explored to uncover the most powerful approach.
+
+
+## Access
+Google Colab: https://colab.research.google.com/drive/1chN7sU1hXIj7jNWnZI2_mePanP843208#scrollTo=rREbCpMfz7Xy
